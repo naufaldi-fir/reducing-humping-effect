@@ -1,0 +1,1 @@
+To help my friends doing his thesis, I try to calculate frequence from a laser welding movement.
